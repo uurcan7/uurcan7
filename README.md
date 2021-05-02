@@ -9,7 +9,7 @@
 
 - 💬 Hakkımda **Ben Uğurcan Çanakkale/Çanakkale, Türkiye'de Yaşıyorum 14 Yaşındayım Günümü Site Kodlayarak ve Anime İzleyerek Geçiriyorum, u7.hanime Instagram Sayfasının Kurucusuyum.**
 
-- 📫 Bana nasıl ulaşabilirsin? **info@uurcan7.xyz**
+
 
 
 
