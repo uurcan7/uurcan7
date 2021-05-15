@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/uurcan70" target="blank"><img src="https://img.shields.io/twitter/follow/uurcan70?logo=twitter&style=for-the-badge" alt="uurcan70" /></a> </p>
 
 - 👨‍💻 İnternet Sitem [https://uurcan7.xyz](https://uurcan7.xyz)
+- 🦮 Rehberlerim [https://github.com/uurcan7/uurcan7/wiki](https://github.com/uurcan7/uurcan7/wiki)
 
 - 💬 Hakkımda **Ben Uğurcan Çanakkale/Çanakkale, Türkiye'de Yaşıyorum 14 Yaşındayım Günümü Site Kodlayarak ve Anime İzleyerek Geçiriyorum, u7.hanime Instagram Sayfasının Kurucusuyum.**
 
