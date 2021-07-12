@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **uurcan70@gmail.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Blogger ve Markdown.](http://feedproxy.google.com/~r/u7-blog/~3/odmDT6rqHPc/blogger-ve-markdown.html)
 - [Neden Blogger?](http://feedproxy.google.com/~r/u7-blog/~3/t2H0K_4Ob5c/neden-blogger.html)
