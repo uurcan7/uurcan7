@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uurcan7&label=Profile%20views&color=f76394&style=flat" alt="uurcan7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uurcan7" alt="uurcan7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/uurcan70" target="blank"><img src="https://img.shields.io/twitter/follow/uurcan70?logo=twitter&style=for-the-badge" alt="uurcan70" /></a> </p>
 
 - 🌱 I’m currently learning **JS**
@@ -37,7 +35,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uurcan7&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f76394&locale=en&layout=compact" alt="uurcan7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uurcan7&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f76394&locale=tr&layout=compact" alt="uurcan7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uurcan7&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f76394&locale=tr" alt="uurcan7" /></p>
 
