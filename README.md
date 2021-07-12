@@ -1,22 +1,44 @@
-<h1 align="center">Merhaba 👋, Ben Uğurcan</h1>
-<h3 align="center">Kendi halinde takılan bir HTML Geliştiricisiyim :D</h3>
+<h1 align="center">Hi 👋, I'm ÇETİN, Uğurcan</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uurcan7&label=Profilin%20g%C3%B6r%C3%BCnt%C3%BClenme%20say%C4%B1s%C4%B1&color=fe7e9e&style=flat" alt="uurcan7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uurcan7&label=Profile%20views&color=f76394&style=flat" alt="uurcan7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uurcan7" alt="uurcan7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/uurcan70" target="blank"><img src="https://img.shields.io/twitter/follow/uurcan70?logo=twitter&style=for-the-badge" alt="uurcan70" /></a> </p>
 
-- 👨‍💻 İnternet Sitem [https://uurcan7.xyz](https://uurcan7.xyz)
-- 🦮 Rehberlerim [https://github.com/uurcan7/uurcan7/wiki](https://github.com/uurcan7/uurcan7/wiki)
+- 🌱 I’m currently learning **JS**
 
-- 💬 Hakkımda **Ben Uğurcan Çanakkale/Çanakkale, Türkiye'de Yaşıyorum 14 Yaşındayım Günümü Site Kodlayarak ve Anime İzleyerek Geçiriyorum, u7.hanime Instagram Sayfasının Kurucusuyum.**
+- 👨‍💻 All of my projects are available at [https://me.uurcan7.com](https://me.uurcan7.com)
 
+- 📝 I regularly write articles on [https://uurcan7.com](https://uurcan7.com)
 
+- 💬 Ask me about **I'm an Otaku. In high school, I am studying Web Programming in the field of information technology.**
 
+- 📫 How to reach me **uurcan70@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/uurcan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="uurcan7" height="30" width="40" /></a>
+<a href="https://dev.to/uurcan7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uurcan7" height="30" width="40" /></a>
+<a href="https://twitter.com/uurcan70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uurcan70" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uurcan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uurcan7" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15771168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15771168" height="30" width="40" /></a>
+<a href="https://fb.com/uurcan70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uurcan70" height="30" width="40" /></a>
+<a href="https://instagram.com/u7_cetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u7_cetin" height="30" width="40" /></a>
+<a href="https://discord.gg/uurcan7#6106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="uurcan7#6106" height="30" width="40" /></a>
+<a href="/http://feeds.feedburner.com/u7-blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://feeds.feedburner.com/u7-blog" height="30" width="40" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uurcan7&show_icons=true&theme=dark&title_color=fe7e9e&text_color=fe7e9e&locale=tr" alt="uurcan7" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uurcan7&theme=dark" alt="uurcan7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uurcan7&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f76394&locale=en&layout=compact" alt="uurcan7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uurcan7&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f76394&locale=tr" alt="uurcan7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uurcan7&theme=default" alt="uurcan7" /></p>
