@@ -17,10 +17,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blogger ve Markdown.](http://feedproxy.google.com/~r/u7-blog/~3/odmDT6rqHPc/blogger-ve-markdown.html)
-- [Neden Blogger?](http://feedproxy.google.com/~r/u7-blog/~3/t2H0K_4Ob5c/neden-blogger.html)
-- [PWA Nedir? Nasıl Kurulur?](http://feedproxy.google.com/~r/u7-blog/~3/MA1immXvjn4/pwa-nedir-nasl-kurulur_10.html)
-- [WordPress ve DMCA Hatası](http://feedproxy.google.com/~r/u7-blog/~3/COartJLHdRc/wordpress-ve-dmca-hatas.html)
+- [Blogger ve Markdown.](https://www.uurcan7.net/2021/07/blogger-ve-markdown.html)
+- [Neden Blogger?](https://www.uurcan7.net/2021/07/neden-blogger.html)
+- [PWA Nedir? Nasıl Kurulur?](https://www.uurcan7.net/2021/07/pwa-nedir-nasl-kurulur_10.html)
+- [WordPress ve DMCA Hatası](https://www.uurcan7.net/2021/07/wordpress-ve-dmca-hatas.html)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
