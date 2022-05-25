@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [https://me.uurcan7.com](https://me.uurcan7.fun)
+- 📝 I regularly write articles on [https://uurcan7.fun](https://uurcan7.fun)
 
-- 📝 I regularly write articles on [https://uurcan7.com](https://uurcan7.fun)
+- 💬 Ask me about **I'm a simple HTML and CSS developer who loves pink, but also a 9th grade
+high school IT student.**
 
-- 💬 Ask me about **I'm a simple html and css developer who loves pink. I am a 9th grade information technology student in high school.**
-
-- 📫 How to reach me **uurcan70@gmail.com**
+- 📫 How to reach me **info@uurcan7.fun**
 
 
-![u7](https://m.uurcan7.fun/8.png)
+![u7](https://m.uurcan7.fun/8.webp)
 
