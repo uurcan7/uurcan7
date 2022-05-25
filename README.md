@@ -15,6 +15,5 @@ high school IT student.**
 - 📫 How to reach me **info@uurcan7.fun**
 
 
-![u7](I'm a simple HTML and CSS developer who loves pink, but also a 9th grade
-high school IT student.)
+![u7](https://m.uurcan7.fun/u7bg.webp)
 
