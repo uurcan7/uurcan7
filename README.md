@@ -14,6 +14,6 @@ high school IT student.**
 
 - 📫 How to reach me **info@uurcan7.com**
 
-[url=https://myanimelist.net/animelist/uurcan7&sclick=1][IMG]https://cdn.myanimelist.net/signature/uurcan7.png[/IMG][/url] 
+[url=https://myanimelist.net/animelist/diyezuurca&sclick=1][IMG]https://cdn.myanimelist.net/signature/diyezuurca.png[/IMG][/url] 
 ![u7](https://www.uurcan7.com/images/u7bg.webp)
 
