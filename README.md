@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uurcan7&label=Profile%20views&color=f76394&style=flat" alt="uurcan7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/diyezuurca" target="blank"><img src="https://img.shields.io/twitter/follow/diyezuurca?logo=twitter&style=for-the-badge" alt="uurcan70" /></a> </p>
+<p align="left"> <a href="https://twitter.com/diyezuurca" target="blank"><img src="https://img.shields.io/twitter/follow/diyezuurca?logo=twitter&style=for-the-badge" alt="diyezuurca" /></a> </p>
 
 - 🌱 I’m currently learning **JS**
 
@@ -15,5 +15,5 @@ high school IT student.**
 - 📫 How to reach me **info@uurcan7.com**
 
 
-![u7](https://www.uurcan7.com/images/u7bg.webp)
+![u7](https://www.diyezuurca.com/images/u7bg.webp)
 
