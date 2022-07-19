@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📝 I regularly write articles on [https://www.uurcan7.com](https://www.uurcan7.com)
+- 📝 I regularly write articles on [https://www.diyezuurca.com](diyezuurca.com)
 
 - 💬 Ask me about **I'm a simple HTML and CSS developer who loves pink, but also a 9th grade
 high school IT student.**
 
-- 📫 How to reach me **info@uurcan7.com**
+- 📫 How to reach me **info@diyezuurca.com**
 
 
 ![u7](https://www.diyezuurca.com/images/u7bg.webp)
