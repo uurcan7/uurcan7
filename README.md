@@ -15,5 +15,5 @@ high school IT student.**
 - 📫 How to reach me **info@diyezuurca.com**
 
 
-![u7](https://www.diyezuurca.com/images/u7bg.webp)
+![u7](https://www.diyezuurca.com/images/8.webp)
 
